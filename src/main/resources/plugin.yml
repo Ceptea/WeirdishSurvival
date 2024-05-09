@@ -1,0 +1,7 @@
+name: WeirdishSurvival
+version: '${version}'
+main: cepteas.weirdishsurvival.WeirdishSurvival
+api-version: '1.20'
+commands:
+  item:
+    permission: weirdish.admin
